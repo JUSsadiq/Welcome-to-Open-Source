@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/JUSsadiq">
+                    <img src="https://avatars.githubusercontent.com/u/86292550?v=4" width="100px;" alt="Shubham Raut"/>
+                    <br />
+                    <sub><b>Sadique Hassan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
